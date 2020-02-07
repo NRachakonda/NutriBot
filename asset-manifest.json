@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/nutribot/static/css/main.10bd9adf.chunk.css",
+    "main.js": "/nutribot/static/js/main.c9a344dc.chunk.js",
+    "main.js.map": "/nutribot/static/js/main.c9a344dc.chunk.js.map",
+    "runtime-main.js": "/nutribot/static/js/runtime-main.f6277eb1.js",
+    "runtime-main.js.map": "/nutribot/static/js/runtime-main.f6277eb1.js.map",
+    "static/js/2.91f12c93.chunk.js": "/nutribot/static/js/2.91f12c93.chunk.js",
+    "static/js/2.91f12c93.chunk.js.map": "/nutribot/static/js/2.91f12c93.chunk.js.map",
+    "index.html": "/nutribot/index.html",
+    "precache-manifest.ded9dc5b0b78539afd8640e6af190432.js": "/nutribot/precache-manifest.ded9dc5b0b78539afd8640e6af190432.js",
+    "service-worker.js": "/nutribot/service-worker.js",
+    "static/css/main.10bd9adf.chunk.css.map": "/nutribot/static/css/main.10bd9adf.chunk.css.map",
+    "static/js/2.91f12c93.chunk.js.LICENSE.txt": "/nutribot/static/js/2.91f12c93.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f6277eb1.js",
+    "static/js/2.91f12c93.chunk.js",
+    "static/css/main.10bd9adf.chunk.css",
+    "static/js/main.c9a344dc.chunk.js"
+  ]
+}
