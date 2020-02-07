@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9bb7d8ff8580e015dd3119da3423d695",
+    "revision": "dd0c2f9301a2a5dadbe4fd2aa43ccb11",
     "url": "/NutriBot/index.html"
   },
   {
-    "revision": "400871530b8459502135",
+    "revision": "1cc19970317c8a1af1c5",
     "url": "/NutriBot/static/css/main.13b09e93.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/NutriBot/static/js/2.91f12c93.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "400871530b8459502135",
-    "url": "/NutriBot/static/js/main.d3d2f3f7.chunk.js"
+    "revision": "1cc19970317c8a1af1c5",
+    "url": "/NutriBot/static/js/main.9d7bc832.chunk.js"
   },
   {
     "revision": "09db6793572330864f6c",
