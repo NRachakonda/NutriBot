@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6fc4ae3976f73383c1cb45ca30d0fe66",
+    "revision": "f94e8e16a190df91bc86babd65af859c",
     "url": "/NutriBot/index.html"
   },
   {
