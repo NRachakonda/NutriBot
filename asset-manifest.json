@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/NutriBot/static/css/main.10bd9adf.chunk.css",
+    "main.css": "/NutriBot/static/css/main.13b09e93.chunk.css",
     "main.js": "/NutriBot/static/js/main.d3d2f3f7.chunk.js",
     "main.js.map": "/NutriBot/static/js/main.d3d2f3f7.chunk.js.map",
     "runtime-main.js": "/NutriBot/static/js/runtime-main.a551a0c1.js",
@@ -8,15 +8,15 @@
     "static/js/2.91f12c93.chunk.js": "/NutriBot/static/js/2.91f12c93.chunk.js",
     "static/js/2.91f12c93.chunk.js.map": "/NutriBot/static/js/2.91f12c93.chunk.js.map",
     "index.html": "/NutriBot/index.html",
-    "precache-manifest.6cfa9da412eb6abb8237f14d862fff0d.js": "/NutriBot/precache-manifest.6cfa9da412eb6abb8237f14d862fff0d.js",
+    "precache-manifest.065de0252fe1ce293771c980e0a44461.js": "/NutriBot/precache-manifest.065de0252fe1ce293771c980e0a44461.js",
     "service-worker.js": "/NutriBot/service-worker.js",
-    "static/css/main.10bd9adf.chunk.css.map": "/NutriBot/static/css/main.10bd9adf.chunk.css.map",
+    "static/css/main.13b09e93.chunk.css.map": "/NutriBot/static/css/main.13b09e93.chunk.css.map",
     "static/js/2.91f12c93.chunk.js.LICENSE.txt": "/NutriBot/static/js/2.91f12c93.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.a551a0c1.js",
     "static/js/2.91f12c93.chunk.js",
-    "static/css/main.10bd9adf.chunk.css",
+    "static/css/main.13b09e93.chunk.css",
     "static/js/main.d3d2f3f7.chunk.js"
   ]
 }

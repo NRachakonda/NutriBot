@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/NutriBot/precache-manifest.6cfa9da412eb6abb8237f14d862fff0d.js"
+  "/NutriBot/precache-manifest.065de0252fe1ce293771c980e0a44461.js"
 );
 
 self.addEventListener('message', (event) => {
